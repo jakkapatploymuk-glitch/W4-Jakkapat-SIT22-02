@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321053830019",
+    "project_id": "w4-sit22-jakkapat",
+    "storage_bucket": "w4-sit22-jakkapat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321053830019:android:f36cd1b6f23ba491afe4b6",
+        "android_client_info": {
+          "package_name": "com.example.w4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJimiRBUqbG6e2MnuNz2bhc3lqTJIZe-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
